@@ -13,7 +13,7 @@ import lombok.NoArgsConstructor;
 @NoArgsConstructor
 @AllArgsConstructor
 public class Product {
-    //Adding a comment
+
     //Adding another comment
 
     @Id
